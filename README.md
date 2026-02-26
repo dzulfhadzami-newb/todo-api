@@ -1,17 +1,25 @@
-# Todo API
+# 🚀 Todo REST API
 
-Simple REST API using Node.js + Express.
+Simple REST API built with Node.js and Express.
 
 ---
 
-## 📌 API Endpoints
+## Features
 
-### Create Todo
-POST `/todos`
+- Create Todo
+- Get All Todos
+- Get Todo by ID
+- Update Todo
+- Delete Todo
 
-Request body:
-```json
-{
-  "title": "Belajar Backend Express"
-}
+---
 
+## Installation
+
+1. Clone repository
+2. npm install
+3. npm run dev
+
+Server running at:
+
+http://localhost:3000
