@@ -23,3 +23,13 @@ Simple REST API built with Node.js and Express.
 Server running at:
 
 http://localhost:3000
+
+---
+
+## API Endpoints
+
+GET /api/todos  
+GET /api/todos/:id  
+POST /api/todos  
+PUT /api/todos/:id  
+DELETE /api/todos/:id
